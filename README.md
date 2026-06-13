@@ -15,7 +15,7 @@ This project implements a 32-bit RISC-V Single Cycle Processor using Verilog HDL
 - Control Unit
 
 ## Block Diagram
-![Block Diagram](block_diagram.png)
+![Block Diagram](block_diagram.png) 
 
 ## Tools Used
 - Verilog HDL
