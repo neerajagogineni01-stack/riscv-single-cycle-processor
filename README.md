@@ -51,6 +51,8 @@ View Waveforms:
 ```bash
 gtkwave cpu.vcd
 ```
+## Simulation Result
+![CPU Waveform](cpu_waveform.png)
 
 ## Author
 Neeraja Gogineni
